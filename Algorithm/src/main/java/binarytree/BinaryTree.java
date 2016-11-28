@@ -1,7 +1,7 @@
 /**
 * BinaryTree.java
 */
-package com.chen.binarytree;
+package binarytree;
 
 /**
  * Binary tree

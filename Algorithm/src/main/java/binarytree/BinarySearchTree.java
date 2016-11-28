@@ -1,7 +1,7 @@
 /**
 * BinarySearchTree.java
 */
-package com.chen.binarytree;
+package binarytree;
 
 /**
  *

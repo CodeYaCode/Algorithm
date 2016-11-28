@@ -1,11 +1,11 @@
 /**
 * UnitTest.java
 */
-package com.chen.binarytree.test;
+package test.binarytree;
 
 import org.junit.Test;
 
-import com.chen.binarytree.BinaryTree;
+import binarytree.BinaryTree;
 
 /**
  *

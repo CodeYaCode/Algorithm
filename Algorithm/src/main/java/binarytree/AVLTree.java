@@ -1,7 +1,7 @@
 /**
 * AVLTree.java
 */
-package com.chen.binarytree;
+package binarytree;
 
 /**
  *
